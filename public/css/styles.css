@@ -1,2 +1,27 @@
-body {
-  background-color: #FFF; }
+html {
+  min-height: 100%;
+  position: relative; }
+  html body {
+    margin-bottom: 60px; }
+
+.navbar {
+  background-color: #C12127 !important; }
+  .navbar a {
+    color: #FFF; }
+
+.main {
+  margin-top: 60px; }
+
+.section {
+  min-height: 400px; }
+  .section.one {
+    background-color: #CCC; }
+  .section.two {
+    background-color: #FFF; }
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+  background-color: #f5f5f5; }

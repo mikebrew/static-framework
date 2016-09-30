@@ -9,10 +9,15 @@
   "author": "Michael Brewington",
   "license": "MIT",
   "devDependencies": {
+    "bootstrap": "^3.3.7",
     "browser-sync": "^2.16.0",
+    "del": "^2.2.2",
     "express": "^4.14.0",
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
     "gulp-connect": "^5.0.0",
-    "gulp-sass": "^2.3.2"
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0"
   }
 }
