@@ -14,7 +14,7 @@ var paths = {
 var src = {
     scss: 'src/scss/**/*.scss',
     html: 'src/*.html',
-    scripts: 'src/scripts/**/*',
+    scripts: 'src/scripts/**/*'
 };
 
 gulp.task('connect', function() {
