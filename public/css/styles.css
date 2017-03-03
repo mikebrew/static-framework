@@ -4,20 +4,17 @@ html {
   html body {
     margin-bottom: 60px; }
 
-.navbar {
-  background-color: #C12127 !important; }
-  .navbar a {
-    color: #FFF; }
+.navbar a {
+  cursor: pointer; }
 
 .main {
   margin-top: 60px; }
-
-.section {
-  min-height: 400px; }
-  .section.one {
-    background-color: #CCC; }
-  .section.two {
-    background-color: #FFF; }
+  .main .section {
+    min-height: 400px; }
+    .main .section.one {
+      background-color: #CCC; }
+    .main .section.two {
+      background-color: #FFF; }
 
 #footer {
   position: absolute;
