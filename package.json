@@ -9,7 +9,7 @@
   "author": "Michael Brewington",
   "license": "MIT",
   "devDependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "~> 4.1.2",
     "bootstrap-sass": "^3.3.7",
     "browser-sync": "^2.16.0",
     "del": "^2.2.2",
